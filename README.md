@@ -84,6 +84,16 @@ PubmedID
 12345678
 87654321
 ```
+---
+
+## 📤 Publishing to TestPyPI
+
+1. Build the package:
+poetry build
+2. Upload to TestPyPI:
+twine upload --repository testpypi dist/*
+3. Verify the upload:
+Visit https://test.pypi.org/project/pubmed-paper-fetcher-abhishek/ to confirm.
 
 ---
 
