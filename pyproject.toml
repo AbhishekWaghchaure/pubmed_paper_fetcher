@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pubmed_paper_fetcher"
+name = "pubmed-paper-fetcher-abhishek"
 version = "0.1.0"
 description = "Fetch research papers from PubMed"
 authors = ["Abhishek Waghchaure <abhisw28@gmail.com>"]
